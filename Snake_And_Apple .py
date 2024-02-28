@@ -1,3 +1,7 @@
+# ACKNOWLEDGMENT 
+
+#note: this code belongs to # Author: aqeelanwar
+#repository : https://github.com/aqeelanwar/Snake-And-Apple
 
 from tkinter import *
 import random
